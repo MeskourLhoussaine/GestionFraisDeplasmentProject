@@ -1,4 +1,11 @@
-# Site web pour la Gestion des frais déplacement 
+
+## Aplication interface
+
+<div align="center"> 
+  <img src="screenshoots/1.jpeg" width="300"> 
+     &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshoots/2.jpeg" width="300">  
+</div> 
 
 Il s'agit d'une application Android qui permet aux utilisateurs de parcourir une liste de Pokémon récupérés depuis Pokemon API
 https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home
@@ -20,18 +27,7 @@ Si l'utilisateur tape sur un Pokémon, un nouvel écran s'ouvrira affichant plus
 ####Spring Boot - Framework utilisé pour créer des applications Java avec une facilité accrue, en particulier pour les applications web et les services RESTful.
 #React.js - Bibliothèque JavaScript utilisée pour construire des interfaces utilisateur interactives et dynamiques pour les applications web.
 #GitHub - Plateforme de développement logiciel basée sur Git, utilisée pour l'hébergement de code source, la gestion de versions et la collaboration sur des projets logiciels.
-#Android Studio - Environnement de développement intégré (IDE) utilisé pour créer des applications Android, offrant des outils puissants pour la conception, le développement et le débogage.
-
-
-## Aplication interface
-
-<div align="center"> 
-  <img src="screenshoots/1.jpeg" width="300"> 
-     &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshoots/2.jpeg" width="300">  
-</div> 
-
-
+#Android Studio 
 
 
 
