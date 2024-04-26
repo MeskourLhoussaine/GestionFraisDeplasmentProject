@@ -1,4 +1,4 @@
-# site web poue la Gestion des frais déplacement 
+# Site web pour la Gestion des frais déplacement 
 
 Il s'agit d'une application Android qui permet aux utilisateurs de parcourir une liste de Pokémon récupérés depuis Pokemon API
 https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home
