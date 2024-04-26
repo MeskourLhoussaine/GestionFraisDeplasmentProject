@@ -17,10 +17,10 @@ Si l'utilisateur tape sur un Pokémon, un nouvel écran s'ouvrira affichant plus
 
 ## Les Outile utiliser
 
-Spring Boot - Framework utilisé pour créer des applications Java avec une facilité accrue, en particulier pour les applications web et les services RESTful.
-React.js - Bibliothèque JavaScript utilisée pour construire des interfaces utilisateur interactives et dynamiques pour les applications web.
-GitHub - Plateforme de développement logiciel basée sur Git, utilisée pour l'hébergement de code source, la gestion de versions et la collaboration sur des projets logiciels.
-Android Studio - Environnement de développement intégré (IDE) utilisé pour créer des applications Android, offrant des outils puissants pour la conception, le développement et le débogage.
+#Spring Boot - Framework utilisé pour créer des applications Java avec une facilité accrue, en particulier pour les applications web et les services RESTful.
+#React.js - Bibliothèque JavaScript utilisée pour construire des interfaces utilisateur interactives et dynamiques pour les applications web.
+#GitHub - Plateforme de développement logiciel basée sur Git, utilisée pour l'hébergement de code source, la gestion de versions et la collaboration sur des projets logiciels.
+#Android Studio - Environnement de développement intégré (IDE) utilisé pour créer des applications Android, offrant des outils puissants pour la conception, le développement et le débogage.
 
 
 ## Aplication interface
